@@ -1,0 +1,27 @@
+{
+   "id1" : {
+          "name" : "Jim Redhurst",
+	  "totalBusinessClassFlights" : "50",
+	  "frequentFlyer" : "SkyTeam",
+          "favouriteAirline" : "Delta Air Lines",
+          "favouriteDestination" : "Las Vegas"
+   },
+
+
+   "id2" : {
+    "name" : "DP van Basten",
+	  "totalBusinessClassFlights" : "40",
+	  "frequentFlyer" : "Star Alliance",
+    "favouriteAirline" : "Singapore Airlines",
+    "favouriteDestination" : "Phuket"
+   },
+
+
+   "id3" : {
+    "name" : "Varun Oberoi",
+	  "totalBusinessClassFlights" : "30",
+	  "frequentFlyer" : "Star Alliance",
+    "favouriteAirline" : "United Air Lines",
+    "favouriteDestination" : "Las Vegas"
+   }
+}
