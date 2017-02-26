@@ -1,27 +1,33 @@
 {
-   "id1" : {
-          "name" : "Jim Redhurst",
-	  "totalBusinessClassFlights" : "50",
-	  "frequentFlyer" : "SkyTeam",
-          "favouriteAirline" : "Delta Air Lines",
-          "favouriteDestination" : "Las Vegas"
+   "tour1" : {
+           "description":"Exotict street food rickshaw adventure",
+           "duration":"0.5",
+           "difficulty": "2",
+           "adventure": "5",
+           "culture": "3",
+           "cost": "299",
+           "distance" : "20"
    },
 
 
-   "id2" : {
-    "name" : "DP van Basten",
-	  "totalBusinessClassFlights" : "40",
-	  "frequentFlyer" : "Star Alliance",
-    "favouriteAirline" : "Singapore Airlines",
-    "favouriteDestination" : "Phuket"
+   "tour2" : {
+       "description":"Ming dynasty cultural tour",
+       "duration":"1",
+       "difficulty": "1",
+       "adventure": "2",
+       "culture": "5",
+       "cost": "399",
+       "distance" : "150"
    },
 
 
-   "id3" : {
-    "name" : "Varun Oberoi",
-	  "totalBusinessClassFlights" : "30",
-	  "frequentFlyer" : "Star Alliance",
-    "favouriteAirline" : "United Air Lines",
-    "favouriteDestination" : "Las Vegas"
+   "tour3" : {
+        "description":"Red Lantern making and photography tour",
+        "duration":"0.5",
+        "difficulty": "1",
+        "adventure": "2",
+        "culture": "4",
+        "cost": "199",
+        "distance" : "30"
    }
 }
