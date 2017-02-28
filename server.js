@@ -2,8 +2,15 @@ var express = require('express');
 var app = express();
 var fs = require("fs");
 
-app.get('/getTourRecommendation/:memberID/:memberName', function (req, res) {
-   fs.readFile( __dirname + "/" + "users.json", 'utf8', function (err, data) {
+app.get('/getTourRecommendation1', function (req, res) {
+   fs.readFile( __dirname + "/" + "api1.json", 'utf8', function (err, data) {
+       console.log( data );
+       res.end( data );
+   });
+})
+
+app.get('/getTourRecommendation2', function (req, res) {
+   fs.readFile( __dirname + "/" + "api2.json", 'utf8', function (err, data) {
        console.log( data );
        res.end( data );
    });

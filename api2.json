@@ -1,0 +1,39 @@
+{
+   "membership_id":"12432241",
+   "name":"DP Van Van Leeuwen",
+   "Tours":[
+      {
+         "priority":"1",
+         "description":"OPNFV Summit - a conference that brings together developers, end users, and communities working to advance open source Network Functions",
+         "duration":"0.5",
+         "difficulty":"2",
+         "adventure":"3",
+         "culture":"3",
+         "cost":"299",
+         "luxury":"3",
+         "distance":"50"
+      },
+      {
+         "priority":"2",
+         "description":"A guided tour of Beijing’s largest electrical and electronics mega-mall",
+         "duration":"0.5",
+         "difficulty":"2",
+         "adventure":"2",
+         "culture":"2",
+         "cost":"79",
+         "luxury":"2",
+         "distance":"50"
+      },
+      {
+         "priority":"3",
+         "description":"The Great wall of China day walking tour",
+         "duration":"1.0",
+         "difficulty":"3",
+         "adventure":"4",
+         "culture":"4",
+         "cost":"399",
+         "luxury":"3",
+         "distance":"200"
+      }
+   ]
+}

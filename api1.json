@@ -1,0 +1,39 @@
+{
+   "membership_id":"12432242",
+   "name":"Paul Cormier",
+   "Tours":[
+      {
+         "priority":"1",
+         "description":"A guided walking tour of Mumbai’s traditional street food",
+         "duration":"0.5",
+         "difficulty":"2",
+         "adventure":"3",
+         "culture":"3",
+         "cost":"79",
+         "luxury":"1",
+         "distance":"20"
+      },
+      {
+         "priority":"2",
+         "description":"Mumbai motorcycle tour",
+         "duration":"1",
+         "difficulty":"3",
+         "adventure":"4",
+         "culture":"4",
+         "cost":"199",
+         "luxury":"2",
+         "distance":"150"
+      },
+      {
+         "priority":"3",
+         "description":"Historical luxury city tour of Mumbai",
+         "duration":"0.5",
+         "difficulty":"1",
+         "adventure":"2",
+         "culture":"4",
+         "cost":"499",
+         "luxury":"5",
+         "distance":"30"
+      }
+   ]
+}
